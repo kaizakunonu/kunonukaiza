@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kunonukaiza
+- 👋 Hi, I’m @kaizakunonu
 - 👀 I’m interested in python, data science, flutter, ...
 - 🌱 I’m currently learning mobile development using flutter, ..
 - 💞️ I’m looking to collaborate on mobile development
